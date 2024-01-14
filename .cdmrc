@@ -1,1 +1,2 @@
-tabs : ['README.md']
+tabs: ["index.html", "todo.js", "style.css", "drag.js"]
+terminals: ["static-server -p $PUBLIC_PORT --no-cache"]
