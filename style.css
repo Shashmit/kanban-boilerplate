@@ -12,8 +12,6 @@
 .board{
   display: 
   flex-direction:
-
-  align-items:
   overflow: scroll;
   margin-top: 10px;
 }
